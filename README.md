@@ -1,4 +1,18 @@
-# 中文咖啡厅 v3 代办列表
+# 🔨VRChat 官网举报链接
+
+- [Submit a request-VRChat](https://help.vrchat.com/hc/en-us/requests/new?ticket_form_id=41536165070483)
+
+# 🌐 旧版地图（停止维护）
+
+- [中文咖啡厅 v1【Remake】](https://vrchat.com/home/world/wrld_ef6194f1-51a8-4bda-a334-ee2c0a4f640a/info)
+- [中文咖啡厅 v2【Remake】](https://vrchat.com/home/world/wrld_c3c37d27-75be-40fa-9f67-7b0beec9bbde/info)
+
+# ⏺️ Issues 系统
+
+- 点击 `Issues` 来提交你的反馈或建议。
+- **请注意：** 首次提交前，请务必阅读置顶指南 → `⚠️必读！如何提交你的 Issue ？`
+
+# 🥰 中文咖啡厅 v3 代办列表
 
 目前抽空可以做到的。
 
@@ -9,7 +23,7 @@
 - [x] 扩大地图空气墙范围
 - [ ] 浮标灯
 
-# 可能会做的
+# 🤔 可能会做的
 
 也就是传说中的，画饼。
 
@@ -23,7 +37,7 @@
 - [ ] 解决画笔滞后感
 - [ ] “体积光”系统
 
-# 永远不会做的
+# 🫢 永远不会做的
 
 或许 v4 就能见到了呢？
 
